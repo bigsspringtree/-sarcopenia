@@ -1,12 +1,13 @@
 ﻿{
   "version": "1.0.1",
   "download_urls": [
-    "https://github.com/bigsspringtree/-sarcopenia/releases/download/1.0.0/Kiosk_Electroceutical.zip.001"
-    "https://github.com/bigsspringtree/-sarcopenia/releases/download/1.0.0/Kiosk_Electroceutical.zip.002"
+    "https://github.com/bigsspringtree/-sarcopenia/releases/download/1.0.0/Kiosk_Electroceutical.zip.001",
+    "https://github.com/bigsspringtree/-sarcopenia/releases/download/1.0.0/Kiosk_Electroceutical.zip.002",
     "https://github.com/bigsspringtree/-sarcopenia/releases/download/1.0.0/Kiosk_Electroceutical.zip.003"
   ],
   "notice": "초기버전"
 
 }
+
 
 
