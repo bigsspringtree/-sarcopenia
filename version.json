@@ -1,7 +1,10 @@
 ﻿{
   "version": "1.0.1",
   "urls": [
-    "https://github.com/bigsspringtree/-sarcopenia/releases/download/1.0.0/Test.zip"
+    "https://github.com/bigsspringtree/-sarcopenia/releases/download/1.0.1/Kiosk_Electroceutical.zip.001",
+    "https://github.com/bigsspringtree/-sarcopenia/releases/download/1.0.1/Kiosk_Electroceutical.zip.002",
+    "https://github.com/bigsspringtree/-sarcopenia/releases/download/1.0.1/Kiosk_Electroceutical.zip.003"
   ],
-  "notice": "초기버전"
+  "notice": "악력측정 자동화 버전"
 }
+
